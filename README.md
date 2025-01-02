@@ -21,7 +21,7 @@
 ## 🎤 About me 
 - 🔭 I’m currently working as a CTO on my startup thriveup.tech
 - 🌱 I’m currently learning mobile app development using flutter
-- 📫 How to reach me: harisinghal20@gmail.com
+- 📫 How to reach me: devsinghal200@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
